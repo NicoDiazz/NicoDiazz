@@ -41,6 +41,43 @@
           <img src="https://user-images.githubusercontent.com/54600307/187530098-ab93a946-df08-4f55-916e-e463a078cc1f.png" alt="networking-devices-and-initial-configuration" width="100" height="100"/> </a> 
       <a href="https://www.credly.com/earner/earned/badge/53615486-c02b-4958-a4e5-50b9f628b26c" target="_blank" rel="noreferrer"> 
           <img src="https://user-images.githubusercontent.com/54600307/187532737-9405fd60-9b9e-4da5-b8a9-4f2af04f76de.png" alt="endpoint-security" width="100" height="100"/> </a> 
+     <a href="https://www.credly.com/earner/earned/badge/915ceb42-03a2-4dfb-8776-21e063f3c9c0" target="_blank" rel="noreferrer"> 
+          <img src="https://user-images.githubusercontent.com/54600307/187551915-682e4af4-37e7-4197-878a-318cdee19a58.png" alt="cyber-threat-management" width="100" height="100"/> </a> 
+       <a href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer"> 
+          <img src="https://user-images.githubusercontent.com/54600307/187552264-f1c3037c-724a-40dd-ba04-9598bc7a33be.png" alt="python-essentials-1" width="100" height="100"/> </a> 
+
  </p>
  
+  <h4 align="center">Palo Alto Networks</h4>
+  <p align="center">
+     <img src="https://user-images.githubusercontent.com/54600307/187552264-f1c3037c-724a-40dd-ba04-9598bc7a33be.png" alt="python-essentials-1" width="100" height="100"/>
+   </p>
+ 
+ <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">
+ <p align="center">
+  Fundamentals of Cloud Security </a> 
+    </p>
+    <p align="center">
+ <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">Fundamentals of Cloud Security </a> 
+    </p>
+ <p align="center">
+ <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">Fundamentals of Cloud Security </a> 
+     </p>
+  <p align="center">
+ <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">Fundamentals of Cloud Security </a> 
+      </p>
+   <p align="center">
+ <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">
+ Fundamentals of Cloud Security 
+</a> 
+    </p>
+         
+   
+
+ 
+
+
+
+
+
 
