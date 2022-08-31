@@ -46,6 +46,8 @@
           <img src="https://user-images.githubusercontent.com/54600307/187551915-682e4af4-37e7-4197-878a-318cdee19a58.png" alt="cyber-threat-management" width="100" height="100"/> </a> 
        <a href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer"> 
           <img src="https://user-images.githubusercontent.com/54600307/187552264-f1c3037c-724a-40dd-ba04-9598bc7a33be.png" alt="python-essentials-1" width="100" height="100"/> </a> 
+        <a href="https://www.credly.com/earner/earned/badge/8b7a28b7-9a08-468c-b636-38fded98bb84" target="_blank" rel="noreferrer"> 
+          <img src="https://user-images.githubusercontent.com/54600307/187753053-60d2c1bd-fb55-444b-a483-595fde48963f.png" alt="networking-essentials" width="100" height="100"/> </a> 
 
  </p>
  
