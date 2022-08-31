@@ -32,6 +32,7 @@
  </p>
  
  <h4 align="center">Networks @ Cisco Academy</h4>
+ 
   <p align="center">
      <a href="https://www.credly.com/earner/earned/badge/212076fa-94d6-418c-839e-ff4d059298cf" target="_blank" rel="noreferrer"> 
           <img src="https://user-images.githubusercontent.com/54600307/187529741-54b5b30c-33f5-47af-948e-886e19f80a66.png" alt="networking-basics" width="100" height="100"/> </a> 
@@ -49,33 +50,41 @@
  </p>
  
   <h4 align="center">Palo Alto Networks</h4>
+  
   <p align="center">
-     <img src="https://user-images.githubusercontent.com/54600307/187552264-f1c3037c-724a-40dd-ba04-9598bc7a33be.png" alt="python-essentials-1" width="100" height="100"/>
+     <img src="https://user-images.githubusercontent.com/54600307/187664369-0240b3f4-14da-4e50-9a3a-9a80a8b4d2d7.png" alt="Paloalto" width="100" height="100"/>
    </p>
- 
- <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">
- <p align="center">
-  Fundamentals of Cloud Security </a> 
-    </p>
-    <p align="center">
- <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">Fundamentals of Cloud Security </a> 
-    </p>
- <p align="center">
- <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">Fundamentals of Cloud Security </a> 
-     </p>
-  <p align="center">
- <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">Fundamentals of Cloud Security </a> 
-      </p>
+   
+   
+
+    
    <p align="center">
- <a  href="https://www.credly.com/earner/earned/badge/8e805daf-532d-49e4-b2a4-3753713cff40" target="_blank" rel="noreferrer">
+ <a  href="https://drive.google.com/file/d/1LtwFom6GecGBahwK7m2eCCtxUyP1Rufv/view?usp=sharing" target="_blank" rel="noreferrer">Fundamentals of Network Security </a> 
+    </p>
+    
+ <p align="center">
+ <a  href="https://drive.google.com/file/d/1-jIdDKbqnVw0SNIbq8El48AVgxJXwgRN/view?usp=sharing" target="_blank" rel="noreferrer">Introduction to Cybersecurity </a> 
+     </p>
+     
+  <p align="center">
+ <a  href="https://drive.google.com/file/d/1yJ3OgHeJMX_OSzhlDg2urOQ75r5nb6bv/view?usp=sharing" target="_blank" rel="noreferrer">Fundamentals of SOC </a> 
+      </p>
+      
+   <p align="center">
+ <a  href="https://drive.google.com/file/d/1Mnbm2WDhDEx2VU6QjRyHVRQ4Cv6Gu5YB/view?usp=sharing" target="_blank" rel="noreferrer">
  Fundamentals of Cloud Security 
 </a> 
     </p>
+    <p align="center">
+ <a  href="https://drive.google.com/file/d/1tYusESZMRB9i9LAqjDABi8A0MaVwVhIw/view?usp=sharing" target="_blank" rel="noreferrer">
+ The fundamentals of SOC -Assessment
+</a> 
+    </p>
          
+    
    
 
  
-
 
 
 
